@@ -4,3 +4,6 @@ This is a Node.js command-line application that takes in information about emplo
 
 Link to a walkthrough video that demonstrates its functionality and all of the tests passing. You’ll need to submit a link to the video : https://drive.google.com/file/d/1mf36DxjAgYC1NnPB1V-ptXZ2vYIpUGfE/view?usp=share_link
 
+
+Screenshot of the application is in ./assets/Screenshot.png
+
